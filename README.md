@@ -10,7 +10,7 @@ Converted Animate.css to scss for inclusion in scss projects.
 ```vue
 	<transition name="custom-transition" enter-active-class="animated fadeIn" leave-active-class="animated fadeOut">
 		<div v-if="displayed">
-      Hello World
+			Hello World
 		</div>
 	</transition>
 ```
