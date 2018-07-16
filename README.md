@@ -14,3 +14,4 @@ Converted Animate.css to scss for inclusion in scss projects.
 	</div>
 </transition>
 ```
+See https://vuejs.org/v2/guide/transitions.html for more information.
