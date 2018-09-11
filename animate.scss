@@ -1960,3 +1960,10 @@
 	-webkit-animation-name: slideOutUp;
 	animation-name: slideOutUp;
 }
+
+@media (prefers-reduced-motion) {
+  .animated {
+    animation: unset !important;
+    transition: none !important;
+  }
+}
